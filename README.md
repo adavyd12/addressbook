@@ -1,6 +1,7 @@
 Addressbook Tutorial
 ====================
 pora brat pora
+ny chto nakonec sdelaem kak hotim
 
 This change should be polled in by Jenkins
 One more dummychange
