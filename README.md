@@ -2,6 +2,7 @@ Addressbook Tutorial
 ====================
 pora brat pora
 ny chto nakonec sdelaem kak hotim
+ura, ura, ura
 
 This change should be polled in by Jenkins
 One more dummychange
